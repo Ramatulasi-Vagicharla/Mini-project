@@ -1,6 +1,6 @@
 # Mini Project: Flight Reservation System
 
-This project is a **Flight Reservation System** built using **Java**. It simulates a flight reservation process, allowing users to book, view, and cancel flights. It also includes an admin interface for managing flight details.
+This project is a **Flight Reservation System** built using **Java**. It also simulates a flight reservation process, allowing users to book, view, and cancel flights. It also includes an admin interface for managing flight details.
 
 ## Features:
 - **Flight Search**: Users can search for flights based on departure, arrival, and date.
